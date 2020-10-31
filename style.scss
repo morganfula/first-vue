@@ -25,7 +25,17 @@ input {
 }
 
 label {
-  font-weight: bold;
+  text-align: center;
+  padding-bottom: 2rem;
+  font-size: 2rem;
+  font-weight: lighter;
+}
+
+button {
+  display: flex;
+  padding: 0.4rem 0.8rem;
+  background-color: white;
+  border: 0.2rem solid black;
 }
 
 ul {
